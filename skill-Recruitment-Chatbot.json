@@ -1,0 +1,1483 @@
+{
+  "intents": [
+    {
+      "intent": "overtime",
+      "examples": [
+        {
+          "text": "what if your given over work"
+        },
+        {
+          "text": "will you work for over time"
+        },
+        {
+          "text": "do you work for over time"
+        },
+        {
+          "text": "how do you feel about working nights and weekends"
+        },
+        {
+          "text": "whats your opinion on overnights and weekends work"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "relocate",
+      "examples": [
+        {
+          "text": "will you accept if relocated by the company"
+        },
+        {
+          "text": "whats your opinion on relocations"
+        },
+        {
+          "text": "will you relocate if needed"
+        },
+        {
+          "text": "do you work even if you are transfered"
+        },
+        {
+          "text": "what if your relocated"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "angry",
+      "examples": [
+        {
+          "text": "will you get angry easily"
+        },
+        {
+          "text": "what increases your anger"
+        },
+        {
+          "text": "how to you get angry"
+        },
+        {
+          "text": "how do you get anger"
+        },
+        {
+          "text": "what makes you angry"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "hobbies",
+      "examples": [
+        {
+          "text": "what will you do in free time"
+        },
+        {
+          "text": "which are you interested in other than work"
+        },
+        {
+          "text": "what are your outside interests"
+        },
+        {
+          "text": "what are your hobbies"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "work",
+      "examples": [
+        {
+          "text": "whats your interest in working here"
+        },
+        {
+          "text": "why do you want to work in our company"
+        },
+        {
+          "text": "what makes you work here"
+        },
+        {
+          "text": "why do you want to work here"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Greetings",
+      "examples": [
+        {
+          "text": "Hlo"
+        },
+        {
+          "text": "Good Morning"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "Good Afternoon"
+        },
+        {
+          "text": "Good Evening"
+        },
+        {
+          "text": "you there?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "salary",
+      "examples": [
+        {
+          "text": "how much money do you want"
+        },
+        {
+          "text": "how much salary do u want"
+        },
+        {
+          "text": "whats your expected salary"
+        },
+        {
+          "text": "How much salary are you expecting"
+        },
+        {
+          "text": "how much do you want"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "own_Business",
+      "examples": [
+        {
+          "text": "How do you consider starting your own business"
+        },
+        {
+          "text": "are you interested in own business"
+        },
+        {
+          "text": "do you want to start any business of your own"
+        },
+        {
+          "text": "do you have any goal of starting your own businesses"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "inspiration",
+      "examples": [
+        {
+          "text": "how do u get inspired"
+        },
+        {
+          "text": "who is your inspiration"
+        },
+        {
+          "text": "what inspires you"
+        },
+        {
+          "text": "who has inspired you in your life"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "achievements",
+      "examples": [
+        {
+          "text": "what did you achieve in your life"
+        },
+        {
+          "text": "any achievements"
+        },
+        {
+          "text": "what did you gain"
+        },
+        {
+          "text": "do u achieve anything"
+        },
+        {
+          "text": "what about your achievements"
+        },
+        {
+          "text": "what are your achievements"
+        },
+        {
+          "text": "what are your works"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "work_under_pressure",
+      "examples": [
+        {
+          "text": "what if you are made work under pressure"
+        },
+        {
+          "text": "will you work under pressure"
+        },
+        {
+          "text": "do you work under pressure"
+        },
+        {
+          "text": "what is your opinion on work under pressure"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "projects",
+      "examples": [
+        {
+          "text": "do u acquire any project"
+        },
+        {
+          "text": "what about your projects"
+        },
+        {
+          "text": "what are your projects"
+        },
+        {
+          "text": "which projects do you complete"
+        },
+        {
+          "text": "which projects do you acquire"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "thanks_giving",
+      "examples": [
+        {
+          "text": "good to see you"
+        },
+        {
+          "text": "Okay wait for our responce"
+        },
+        {
+          "text": "Okay thank you for your cooperation see u soon"
+        },
+        {
+          "text": "nice meeting you wait for our responce"
+        },
+        {
+          "text": "I Like your way of responce hope you achieve your goal"
+        },
+        {
+          "text": "nice to see you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "skills",
+      "examples": [
+        {
+          "text": "what are your skills"
+        },
+        {
+          "text": "what skills do u persue"
+        },
+        {
+          "text": "which skills do u acquire"
+        },
+        {
+          "text": "what about your skills"
+        },
+        {
+          "text": "do you have any skills"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Introduction",
+      "examples": [
+        {
+          "text": "may i know you"
+        },
+        {
+          "text": "Tell me about yourself"
+        },
+        {
+          "text": "may i know u in detail"
+        },
+        {
+          "text": "introduce yourself"
+        },
+        {
+          "text": "about yourself"
+        },
+        {
+          "text": "bio"
+        },
+        {
+          "text": "introduction please"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "interests",
+      "examples": [
+        {
+          "text": "What are your interests"
+        },
+        {
+          "text": "what are you interested in"
+        },
+        {
+          "text": "what makes you get interest"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "goals",
+      "examples": [
+        {
+          "text": "what do you want to achieve"
+        },
+        {
+          "text": "whats your target"
+        },
+        {
+          "text": "whats your goal"
+        },
+        {
+          "text": "what are your goals"
+        },
+        {
+          "text": "what is your aim to achieve"
+        },
+        {
+          "text": "how do you want to settle in your life"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "weakness",
+      "examples": [
+        {
+          "text": "whats your weakness"
+        },
+        {
+          "text": "what are your weaknesses"
+        },
+        {
+          "text": "weakness"
+        },
+        {
+          "text": "what about your weaknesses"
+        },
+        {
+          "text": "what are our greatest weaknesses"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Travel",
+      "examples": [
+        {
+          "text": "are you interested in travelling"
+        },
+        {
+          "text": "are you willing to travel"
+        },
+        {
+          "text": "will you accept travelling for company purposes"
+        },
+        {
+          "text": "whats your opinion on travelling"
+        },
+        {
+          "text": "what if you have to travel for work to someother place"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "creativity",
+      "examples": [
+        {
+          "text": "do you have any creativity in you"
+        },
+        {
+          "text": "which creativity do you acquire"
+        },
+        {
+          "text": "which creativity do you have"
+        },
+        {
+          "text": "give me an example of your creativity"
+        },
+        {
+          "text": "Tell me about your creativity"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "hiring",
+      "examples": [
+        {
+          "text": "may i know the reason to hire you"
+        },
+        {
+          "text": "whats makes you think i will hire you"
+        },
+        {
+          "text": "why should i hire you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "telling_lie",
+      "examples": [
+        {
+          "text": "would you lie for the company"
+        },
+        {
+          "text": "will you lie to avoid serious situations"
+        },
+        {
+          "text": "what if you need to lie for the company"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Strengths",
+      "examples": [
+        {
+          "text": "strengths"
+        },
+        {
+          "text": "what are your greatest strengths"
+        },
+        {
+          "text": "whats your strength"
+        },
+        {
+          "text": "what are your strengths"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "own_business",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "own business",
+          "synonyms": [
+            "doing business",
+            "business interests",
+            "business is",
+            "business enterprises",
+            "company is",
+            "enterprise is",
+            "matters in",
+            "matters to",
+            "matters of",
+            "affairs is"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "skills",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "skills",
+          "synonyms": [
+            "skill",
+            "abilities",
+            "knowledge",
+            "competencies",
+            "proficiency",
+            "expertise",
+            "talents",
+            "techniques",
+            "qualifications",
+            "capabilities",
+            "competence",
+            "ability",
+            "capability",
+            "talent",
+            "qualification",
+            "understanding",
+            "technique",
+            "methods",
+            "experience",
+            "mastery"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "overwork",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "overwork",
+          "synonyms": [
+            "overworking",
+            "overuse",
+            "overstrain",
+            "overstressed",
+            "overexertion",
+            "malnourishment",
+            "overindulge",
+            "exhaustion",
+            "burnout",
+            "underpay"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "salary",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "salary",
+          "synonyms": [
+            "salaries",
+            "wages",
+            "remuneration",
+            "payroll",
+            "compensation",
+            "paycheck",
+            "annum",
+            "stipend"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "relocate",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "relocate",
+          "synonyms": [
+            "relocation",
+            "move",
+            "resettle",
+            "reposition",
+            "rehouse",
+            "downsize",
+            "transfer",
+            "renovate",
+            "emigrate",
+            "evacuate"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "angry",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "angry",
+          "synonyms": [
+            "enraged",
+            "irate",
+            "annoyed",
+            "indignant",
+            "outraged",
+            "disgruntled",
+            "upset",
+            "anger",
+            "furious",
+            "mad"
+          ]
+        }
+      ],
+      "fuzzy_match": false
+    },
+    {
+      "entity": "Work_under_pressure",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "over work",
+          "synonyms": [
+            "work under pressure",
+            "heavy work",
+            "extra work",
+            "more work"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "thanks",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "thanks",
+          "synonyms": [
+            "thank",
+            "thankyou",
+            "thanx",
+            "congrats",
+            "thx",
+            "congratulations",
+            "cheers",
+            "hey",
+            "hi",
+            "kudos"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "weakness",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "weakness",
+          "synonyms": [
+            "weak",
+            "weakening",
+            "inability",
+            "tiredness",
+            "clumsiness",
+            "numbness",
+            "dizziness",
+            "weaker",
+            "failure",
+            "unsteadiness",
+            "restlessness"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Reply",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "No",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "goals",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "goals",
+          "synonyms": [
+            "goal",
+            "objectives",
+            "targets",
+            "ambitions",
+            "priorities",
+            "achieve",
+            "aim",
+            "expectations",
+            "purpose"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "creativity",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "creativity",
+          "synonyms": [
+            "imagination",
+            "inventiveness",
+            "creative",
+            "innovation",
+            "ingenuity",
+            "originality",
+            "artistry",
+            "spontaneity",
+            "individuality",
+            "resourcefulness"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "travel",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "travel",
+          "synonyms": [
+            "traveling",
+            "trip",
+            "tourism",
+            "tours",
+            "tourist",
+            "journeys",
+            "transportation",
+            "vacations",
+            "destinations"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "strengths",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "strengths",
+          "synonyms": [
+            "strength",
+            "strenghts",
+            "advantages",
+            "competencies",
+            "abilities",
+            "talents",
+            "benefits",
+            "ability",
+            "capabilities"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "hire",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "hiring",
+          "synonyms": [
+            "hire",
+            "recruiting",
+            "employment",
+            "interviewing",
+            "staffing",
+            "job",
+            "employees",
+            "hires",
+            "jobs",
+            "employ",
+            "staff"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "introduction",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "yourself",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "bio",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "tell me about your self",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "tell about yourself",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "hobbies",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "hobbies",
+          "synonyms": [
+            "hobby",
+            "pastimes",
+            "pursuits",
+            "recreation",
+            "leisure",
+            "quizzes",
+            "avocation",
+            "crafts",
+            "activites",
+            "gardening"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am Zaheer,Im from India.I have recently persued my Batchlors Degree"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1591594543317",
+      "disabled": true,
+      "conditions": "@introduction",
+      "dialog_node": "response_7_1592133953279"
+    },
+    {
+      "type": "standard",
+      "title": "Achievements",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I have achieved many certificates in coursera and also 2 internships from smartbridge"
+              },
+              {
+                "text": "I did 3 projects on machine Learning and Artificial Intelligence"
+              },
+              {
+                "text": "I have created Mobile Application using android studios"
+              },
+              {
+                "text": "I have a Global Certification from Pega academy and salesforce"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#achievements",
+      "dialog_node": "node_5_1592313385448",
+      "previous_sibling": "node_3_1592312240743"
+    },
+    {
+      "type": "standard",
+      "title": "Relocate",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I would work if the relocated place is good for living"
+              },
+              {
+                "text": "I cant move out to distinct places for setteling"
+              },
+              {
+                "text": "i would accept relocation for limited period "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#relocate",
+      "dialog_node": "node_5_1592312908560",
+      "previous_sibling": "node_7_1592312795098"
+    },
+    {
+      "type": "standard",
+      "title": "Angry",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I wont get angry easily"
+              },
+              {
+                "text": "I get angry when its matter of self respect"
+              },
+              {
+                "text": "i wont tolerate if any one says bad about my family"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#angry",
+      "dialog_node": "node_5_1592312119997",
+      "previous_sibling": "node_9_1592311973876"
+    },
+    {
+      "type": "standard",
+      "title": "Travel",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I would like to travel as Travelling is my hobby"
+              },
+              {
+                "text": "I am Ready to travel for company works"
+              },
+              {
+                "text": "I can Travel anywhere if the facilities provided are good enough"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Travel",
+      "dialog_node": "node_9_1592313011444",
+      "previous_sibling": "node_5_1592312908560"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_3_1592314030455",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Goals",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "My Goal is to get well settled in life"
+              },
+              {
+                "text": "My Goal is to get good job and get a good house for me and my parents"
+              },
+              {
+                "text": "My Goal is to achieve the best job suitable to my talent"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#goals",
+      "dialog_node": "node_5_1592312384559",
+      "previous_sibling": "node_5_1592313385448"
+    },
+    {
+      "type": "standard",
+      "title": "skills",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "i am good at programming and web development"
+              },
+              {
+                "text": "I have softskills and can solve critical problems easily"
+              },
+              {
+                "text": "i acquire web programming and cloud computing"
+              },
+              {
+                "text": "i am a good hacker and can get control over electronic gadgets"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#skills",
+      "dialog_node": "node_9_1592134625713",
+      "previous_sibling": "node_5_1592134256162"
+    },
+    {
+      "type": "standard",
+      "title": "Interests",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am Interested in Playing games and learning things"
+              },
+              {
+                "text": "I am much interested in playing chess and mind games"
+              },
+              {
+                "text": "My interests are creating new things "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#interests",
+      "dialog_node": "node_2_1592312581547",
+      "previous_sibling": "node_5_1592312488398"
+    },
+    {
+      "type": "standard",
+      "title": "strengths",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "my Strengths are Honesty,Will Power,determination and perseverance"
+              },
+              {
+                "text": "I will do anything possible if i fix that as my goal and thats my strength"
+              },
+              {
+                "text": "I have the will power to face the most deadliest difficulties and standby even in hard time"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Strengths",
+      "dialog_node": "node_8_1592134130027",
+      "previous_sibling": "node_2_1591594543317"
+    },
+    {
+      "type": "standard",
+      "title": "Hobbies",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "My hobbies are Painting,Drawing and Swimming"
+              },
+              {
+                "text": "My Hobbies are Swimming , playing games such as cricket,badminton"
+              },
+              {
+                "text": "I Like to play chess and badminton"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#hobbies",
+      "dialog_node": "node_5_1592312488398",
+      "previous_sibling": "node_5_1592312384559"
+    },
+    {
+      "type": "standard",
+      "title": "projects",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "i have 2 major projects on app development"
+              },
+              {
+                "text": "i have created a software using the machine learning algorithms"
+              },
+              {
+                "text": "i have created many chatbots using Artificial intelligence"
+              },
+              {
+                "text": "i have developed more than 3 websites using web development"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#projects",
+      "dialog_node": "node_3_1592134744961",
+      "previous_sibling": "node_9_1592134625713"
+    },
+    {
+      "type": "standard",
+      "title": "inspiration",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "my Dad is my Inspiration for all my work"
+              },
+              {
+                "text": "Indian army who fights for saving the world without even caring about their lives are my Inspiration"
+              },
+              {
+                "text": "The great freedom fighters who lost their everything to get us freedom and independence are my inspiration"
+              },
+              {
+                "text": "Bhagat singh, netaji subhash chandra bose and their courage and bravery are my inspiration"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#inspiration",
+      "dialog_node": "node_9_1592134917088",
+      "previous_sibling": "node_3_1592134744961"
+    },
+    {
+      "type": "standard",
+      "title": "Telling lie",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I would do any thing for company"
+              },
+              {
+                "text": "I am Ready to do anything for the company"
+              },
+              {
+                "text": "I would lie if situation Demands "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#telling_lie",
+      "dialog_node": "node_10_1592313150809",
+      "previous_sibling": "node_9_1592313011444"
+    },
+    {
+      "type": "standard",
+      "title": "Creativity",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can say i have good creativity in architectural skills"
+              },
+              {
+                "text": "I can create creating paintings and drawings"
+              },
+              {
+                "text": "I can create better things from left over waste things"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#creativity",
+      "dialog_node": "node_3_1592312240743",
+      "previous_sibling": "node_5_1592312119997"
+    },
+    {
+      "type": "standard",
+      "title": "Work Under Pressure",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I would work under pressure if the situation Demands"
+              },
+              {
+                "text": "I would work under pressure if my company is in trouble"
+              },
+              {
+                "text": "I am Ready to do anything for the Company"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#work_under_pressure",
+      "dialog_node": "node_2_1592313244461",
+      "previous_sibling": "node_10_1592313150809"
+    },
+    {
+      "type": "standard",
+      "title": "Thanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you.nice to meet you too"
+              },
+              {
+                "text": "Thank you so much "
+              },
+              {
+                "text": "I will be waiting for your call"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#thanks_giving",
+      "dialog_node": "node_3_1592314030455",
+      "previous_sibling": "node_2_1592313244461"
+    },
+    {
+      "type": "standard",
+      "title": "salary",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I Would work happily if i get enough salary based on my work"
+              },
+              {
+                "text": "i am expecting 50k+ per month"
+              },
+              {
+                "text": "I can work harder to reach good limit of salary"
+              },
+              {
+                "text": "I want salary based on my talent and work"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#salary",
+      "dialog_node": "node_9_1592311973876",
+      "previous_sibling": "node_9_1592134917088"
+    },
+    {
+      "type": "standard",
+      "title": "Overtime",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I would work for over time if there is any critical situation faced by the company"
+              },
+              {
+                "text": "I am ready to work for over time if needed"
+              },
+              {
+                "text": "I would work over time if the company is in trouble"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#overtime",
+      "dialog_node": "node_5_1592312694378",
+      "previous_sibling": "node_2_1592312581547"
+    },
+    {
+      "type": "standard",
+      "title": "Own Business",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I had some Dreams of Building my own company .May be i would achieve that if possible"
+              },
+              {
+                "text": "I am interested in having a company of my own"
+              },
+              {
+                "text": "Having a company of my own is my dream"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#own_Business",
+      "dialog_node": "node_7_1592312795098",
+      "previous_sibling": "node_5_1592312694378"
+    },
+    {
+      "type": "standard",
+      "title": "Introduction",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am Zaheer ,Im from India.I have recently persued my Batchlors Degree"
+              },
+              {
+                "text": "I am Rahul .I am from Japan.I am the Passed out of St Johns University"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#Introduction",
+      "dialog_node": "node_2_1591594543317",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "weakness",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Im more talkitive and goes on talking and i think thats my only weakness"
+              },
+              {
+                "text": "i do thinks fastly in a hurry and that makes some of my works get spoiled but i can control myself"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "@weakness",
+      "dialog_node": "node_5_1592134256162",
+      "previous_sibling": "node_8_1592134130027"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, This is the HR Interview Round for your Applied Job .Are you Ready for this Interview Round?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Recruitment Chatbot",
+  "language": "en",
+  "description": ""
+}
